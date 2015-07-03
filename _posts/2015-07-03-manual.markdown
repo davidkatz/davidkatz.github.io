@@ -1,0 +1,10 @@
+---
+published: true
+title: Manual
+layout: post
+---
+Let's start with a quote:
+
+> What up world?
+
+That's it
