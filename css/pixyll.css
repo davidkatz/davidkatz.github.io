@@ -95,7 +95,7 @@ body {
 .posts .post {
   margin-bottom: 1rem;
   padding-bottom: .5rem;
-  border-bottom: thin solid #f3f3f3;
+  border-bottom: none;
 }
 
 .posts .post:last-child {
@@ -300,7 +300,7 @@ h6 {
   .posts .post {
     margin-bottom: 2rem;
     padding-bottom: 1rem;
-    border-bottom: thin solid #f3f3f3;
+    border-bottom: none;
   }
 
   .posts .post:last-child {
