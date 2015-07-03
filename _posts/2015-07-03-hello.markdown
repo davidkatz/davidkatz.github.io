@@ -2,6 +2,7 @@
 published: true
 title: Hello
 layout: post
+summary: a take on my kitchen
 ---
 ### Test
 
