@@ -99,8 +99,6 @@ body {
 }
 
 .posts .post:last-child {
-  border-bottom: none;
-  margin-bottom: .5rem;
   padding-bottom: 0;
 }
 
@@ -152,8 +150,8 @@ body {
   font-size: 1rem;
   font-weight: 300;
   margin: 0;
-  padding: .25rem 0;
-  color: #7a7a7a;
+  padding: 0;
+  color: #bbb;
   font-style: italic;
 }
 
@@ -261,7 +259,7 @@ h6 {
   .post-meta {
     margin: 0;
     padding: 0;
-    font-size: 1.25rem;
+    font-size: 1rem;
   }
 
   .h1,
@@ -273,7 +271,6 @@ h6 {
   .h2,
   h2 {
     font-size: 2rem;
-    line-height: 2.5rem;
   }
 
   .h3,
@@ -294,7 +291,7 @@ h6 {
   }
 
   .post-link .post-title {
-    margin-top: 1rem;
+    margin-top: 0rem;
   }
 
   .posts .post {
@@ -305,7 +302,6 @@ h6 {
 
   .posts .post:last-child {
     border-bottom: none;
-    margin-bottom: .5rem;
     padding-bottom: 0;
   }
 }
@@ -319,27 +315,24 @@ h6 {
 
   .h2,
   h2 {
-    font-size: 3rem;
+    font-size: 2.5rem;
     line-height: 3.5rem;
   }
 
   .posts .post-meta {
-    padding-bottom: .25rem;
+    padding-bottom: 0rem;
   }
 
   .post-link .post-title {
-    margin-top: .25rem;
+    margin-top: 0rem;
   }
 
   .posts .post {
-    margin-bottom: 4rem;
-    padding-bottom: 2rem;
     border-bottom: none;
   }
 
   .posts .post:last-child {
     border-bottom: none;
-    margin-bottom: 1rem;
     padding-bottom: 0;
   }
 }

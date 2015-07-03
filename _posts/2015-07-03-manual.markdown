@@ -2,6 +2,7 @@
 published: true
 title: Manual
 layout: post
+summary: this is a trial summary. it is pretty cool, right? what if i make it longer, will it still work?
 ---
 Let's start with a quote:
 
