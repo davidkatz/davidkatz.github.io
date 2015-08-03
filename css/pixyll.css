@@ -68,6 +68,13 @@ body {
   
 }
 
+p.twitter-notice {
+  margin-top: 4rem;
+  border-top: 1px solid #ccc;
+  padding-top: 0.5rem;
+  font-size: 1.1rem;
+}
+
 .post-content h3 {
   padding-top: 0.3rem;
   text-transform: uppercase;
