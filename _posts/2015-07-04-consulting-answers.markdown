@@ -7,7 +7,7 @@ summary: This week on our podcast we talked about my now defunct consulting busi
 
 This week on our [podcast](http://shavua.net) (careful, Hebrew) we talked about my now defunct consulting business, which in it's last year of operation made me hundreds of thousands of dollars at rates north of $200/hour. I got some follow up questions, I'm collecting my answers here.
 
-### How do you go about explaining your much above market rate prices to customers?
+### How do you explain your high rates to customers?
 
 I solve problems for free until there's nothing to explain and it's clear to all sides that my cost is much less than their gain. For this method to work, two things are necessary:
 
@@ -28,7 +28,7 @@ If you do have a conflict optimise for ending it. These things can be a real dra
 
 You sit them down, explain transparently why you don't want to continue the work and because you're not a douche you give them as much control over the wind down process as possible.
 
-### How do you manage your work-life balance as a consultant? 
+### How do you manage your work-life balance?
 
 The best thing you can do is have clients that crazy appreciate your work (first step: do work that is worth crazy appreciating). That dynamic changes everything, you'll get no pressure from your clients and how you manage your work life balance will be entirely up to you. 
 
