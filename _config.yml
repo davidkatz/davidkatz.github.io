@@ -2,9 +2,9 @@ excerpt_separator: ""
 pygments: true
 markdown: kramdown
 url: http://davidkatz.github.io
-title: David's Blog
+title: David Katz
 email: hi@davidkatz.me
 author: David Katz
-description: Testing description
+description: A blog
 paginate: 10
 google_analytics: 
