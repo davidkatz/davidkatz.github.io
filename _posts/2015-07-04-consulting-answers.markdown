@@ -11,7 +11,7 @@ This week on our [podcast](http://shavua.net) (careful, Hebrew) we talked about 
 
 I solve problems for free until there's nothing to explain and it's clear to all sides that my cost is much less than their gain. For this method to work, two things are necessary:
 
-1. The right pipeline brings in the right potential clients that (a) have large problems I can solve big time and (b) have enough money to easily spend $50k if it makes sense to them.
+1. The right pipeline brings in potential clients that (a) have large problems I can solve big time and (b) have enough money to easily spend $50k if it makes sense to them.
 2. A method which lets me deliver value fast to that pipeline. The key here is *deliver* not *explain*. The fast part enables the pipeline's economics. If it wasn't fast I couldn't do it for free, if I couldn't do it for free, sales would be a lot tougher.
 
 When it works, after one or two meetings the client sees how my work is changing significant outcomes for their business. At that point cost is not an issue as long as they have the money available. 
