@@ -427,6 +427,19 @@ strong, .bold {
   .mobile-center {
     text-align: center;
   }
+
+  .mt2 {
+    margin-top: 3rem;
+  }
+
+  .mb2 {
+    margin-bottom: 1rem;
+  }
+
+  .py2 {
+    margin-bottom: 0rem;
+  }
+}
 }
 .button {
   font-family: inherit;
