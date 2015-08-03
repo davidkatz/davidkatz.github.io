@@ -80,7 +80,7 @@ p.twitter-notice {
   text-transform: uppercase;
   letter-spacing: 0.15rem;
   padding-bottom: 1.2rem;
-  line-height: 1.8rem;
+  line-height: 2rem;
 }
 
 .site-header nav a:hover {
@@ -245,11 +245,11 @@ h3 {
 
 h1,
 h2 {
-  font-weight: 800;
+  font-weight: 900;
 }
 
 h3 {
-  font-weight: 700;
+  font-weight: 900;
 }
 
 h4,
